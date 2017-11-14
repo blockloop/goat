@@ -9,12 +9,13 @@ Boar aims to streamline the design of HTTP server applications by providing sepa
 
 ## Thanks
 
-Boar is only possible because of the many frameworks and ideas that have inspired me. I want to specifically thank [mustafakin/gongular](https://github.com/mustafaakin/gongular) for the core parsing idea.
+Boar is only possible because of the many frameworks and ideas that have inspired me. I want to specifically thank [mustafakin/gongular](https://github.com/mustafaakin/gongular) for the core parsing concepts.
 
 Other thanks to
 
-- [Gin](https://github.com/gin-gonic/gin)
-- [govalidator](https://github.com/asaskevich/govalidator)
+- [govalidator](https://github.com/asaskevich/govalidator) (used in Boar)
+- [httprouter](https://github.com/julienschmidt/httprouter) (used in Boar)
+- [Gin](https://github.com/gin-gonic/gin) (inspiration)
 
 ## Handlers
 
